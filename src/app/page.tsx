@@ -124,31 +124,31 @@ export default function Home() {
         body {
           background-color: #ffffff;
           color: #222b36; 
-          font-family: 'Inter', sans-serif; /* Define a fonte Inter como padrão */
+          font-family: 'Inter', sans-serif; 
         }
         a {
-          color: #f39c12; /* Ajustado para amarelo */
+          color: #f39c12; 
         }
         a:hover {
-          color: #d68910; /* Amarelo mais escuro no hover */
+          color: #d68910; 
         }
         nav a {
-          color: #222b36; /* Texto preto */
+          color: #222b36; 
         }
         nav a:hover {
-          color: #f39c12; /* Texto amarelo no hover */
+          color: #f39c12; 
         }
         .button {
           background-color: #f39c12;
-          color: #222b36; /* Texto preto */
+          color: #222b36; 
         }
         .button:hover {
           background-color: #d68910; /* Apenas o fundo escurece */
-          color: #222b36; /* Texto permanece preto */
+          color: #222b36; 
         }
         .header-title {
-          font-size: 2rem; /* Aumenta o tamanho da fonte */
-          color: #f39c12; /* Mantém o amarelo */
+          font-size: 2rem; 
+          color: #f39c12; 
         }
         .get-in-touch {
           background-color: transparent;
@@ -156,8 +156,8 @@ export default function Home() {
           border: 2px solid #f39c12;
         }
         .get-in-touch:hover {
-          background-color: #f39c12; /* Fundo amarelo no hover */
-          color: #ffffff; /* Texto branco no hover */
+          background-color: #f39c12; 
+          color: #ffffff; 
         }
       `}</style>
 
